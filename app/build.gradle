@@ -28,5 +28,12 @@ dependencies {
 
 
 
+    //数据库操作依赖
     compile 'org.litepal.android:core:1.4.1'
+
+    //网络请求框架
+    compile 'com.squareup.okhttp3:okhttp:3.4.1'
+    compile 'com.google.code.gson:gson:2.7'
+
+
 }
